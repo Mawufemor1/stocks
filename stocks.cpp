@@ -38,46 +38,6 @@ int main()
   ar = tass - tass * (1.5/100);
   cout << " Amount received after selling the stock : " << ar << endl;
 
-  
-
-
-  
-  
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  return 0;
 }
