@@ -28,26 +28,7 @@ using namespace std;
 
     finalprice = sellingprice + salestax;
     cout << " Final price of the item = " << finalprice << endl;
-
-    
-
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 
 
